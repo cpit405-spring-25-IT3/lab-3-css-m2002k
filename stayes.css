@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.image-preview img{
+    border-top: 30px solid skyblue;
+    border-right:30px solid lightpink;
+    border-left:30px solid #ffefd5;
+    border-bottom:30px solid lightgreen;
+}
+
+table {
+    width: 90%;
+    margin: 0;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid white;
+}
